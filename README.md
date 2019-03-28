@@ -1,3 +1,3 @@
 # ATBot
 Discord Bot
-Learninh how to host my Discord Bot online :) 
+Learning how to host my Discord Bot online :) 
